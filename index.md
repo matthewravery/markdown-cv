@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Matthew Avery's CV
 ---
 # Matthew Avery
 Applied Statistician & Data Scientist
