@@ -15,9 +15,10 @@ Applied Statistician & Data Scientist
 Predictive modeling, uncertainty estimation, mixed models, national defense, functional data, UAVs, test design
 
 ## Education
-  
+  ` `
+  ` `
 
-___North Carolina State University - Raleigh, NC___
+#### North Carolina State University - Raleigh, NC
 
 `2012`
 __PhD (Statistics)__
@@ -27,15 +28,15 @@ Dissertation: _New Techniques for Functional Data Analysis:  Model Selection, Cl
 `2009`
 __Master's (Statistics)__
 
-___New College of Florida - Sarasota, FL___
+#### New College of Florida - Sarasota, FL
 
 `2006`
 __Bachelor of Arts (Economics)__
 Thesis: _The Welfare Effects of Direct-to-Consumer Advertising in Prescription Drug Markets:  A Theoretical Model and Cost-Benefit Analysis_
 
 ## Professional Experience
-` `
-#### Institute for Defense Analyses, Alexandria, VA
+
+_#### __Institute for Defense Analyses, Alexandria, VA__
 
 `2018 – Present` _Embedded Analyst, Office of Cost Analysis and Program Evaluation (CAPE)_
 
@@ -49,13 +50,13 @@ Manage $300k line of effort providing analysis on unmanned aircraft systems. Coo
 
 Provided analytical support to the Office of the Director, Operational Test and Evaluation on over twenty DoD Programs of Record. Products included planning and design of operational tests, observing test events, data analysis, and report writing.
 
-#### North Carolina State University, Raleigh NC
+__North Carolina State University, Raleigh NC__
 
 `2012 – 2016` _Teaching Assistant_
 
 Sole instructor for introductory and second-semester statistics courses for non-majors (five total semesters). Prepared and presented lectures, produced in-class activities, provided one-on-one instruction to students, prepared and graded exams.
 
-#### Merscom/Playdom, Chapel Hill NC
+__Merscom/Playdom, Chapel Hill NC__
 
 `2009-2010` _Business Analytics Specialist (Internship)_
 
@@ -63,7 +64,7 @@ Provided direct analytical support to Merscom chief executives (and Chapel Hill 
 
 ## Teaching
 
-#### North Carolina State University
+__North Carolina State University__
 
 `2012-2011` _ST 312: Introduction to Statistics II_
 Material includes multiple linear regression, one- and two-way ANOVA, multiple comparisons, and other topics. Responsibilities included preparing lectures, designing in-class activities, and writing exams. 
