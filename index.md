@@ -83,11 +83,11 @@ Half-day course covering estimation and properties of MLEs, multi-parameter MLEs
 
 ## Fellowships and Awards
 
-`2014` __Runner-up Outstanding JSM Presentation Award - __ _American Statistical Association Section on Statistics in the Physical and Engineering Sciences_
+`2014` __Runner-up Outstanding JSM Presentation Award __ _American Statistical Association Section on Statistics in the Physical and Engineering Sciences_
 
-`2014` __Best Presentation Award -__ _International Test and Evaluation Association_
+`2014` __Best Presentation Award __ _International Test and Evaluation Association_
 
-`2010-2011` __Graduate Fellow - __ _Statistical and Applied Mathematical Sciences Institute_
+`2010-2011` __Graduate Fellow __ _Statistical and Applied Mathematical Sciences Institute_
 
 ## Selected Presentations
 
