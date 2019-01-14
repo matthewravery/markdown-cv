@@ -6,11 +6,11 @@ title: Isaac Newtons's CV
 Applied Statistician & Data Scientist
 
 <div id="webaddress">
-<a href="https://github.com/matthewravery">My wikipedia page</a>
+<a href="https://github.com/matthewravery">My GitHub</a>
 </div>
 
 
-### Specializing
+### Specializations
 
 Predictive modeling, uncertainty bounds
 
@@ -18,54 +18,54 @@ Predictive modeling, uncertainty bounds
 
 #### North Carolina State University - Raleigh, NC
 `2012`
-__PhD (Statistics)__
+_PhD (Statistics)_
 
 `2009`
-__Master's (Statistics)__
+_Master's (Statistics)_
 
 #### New College of Florida - Sarasota, FL
 
 `2006`
-__bachelor of Arts (Economics)__
+_Bachelor of Arts (Economics)_
 
 ## Professional Experience
 
 #### Institute for Defense Analyses, Alexandria, VA
-`2018 – Present` __Embedded Analyst, Office of Cost Analysis and Program Evaluation (CAPE)__
+`2018 – Present` _Embedded Analyst, Office of Cost Analysis and Program Evaluation (CAPE)_
 
 Provide analytical support to OSD(CAPE). Perform original data analysis and organize ad hoc teams of IDA researchers to address special requests from CAPE staff. 
 
-`2017 – Present` __Task Leader, Tactical Aerial Reconnaissance Systems (TARS)__
+`2017 – Present` _Task Leader, Tactical Aerial Reconnaissance Systems (TARS)_
 
 Manage $300k line of effort providing analysis on unmanned aircraft systems. Coordinate work of nine IDA researchers to provide the Office of the Director, Operational Test and Evaluation input on six Programs of Record. Tasks include budget planning, organizing coverage plans for test events, and quality control of team products. 
 
-`2012 – 2016` __Research Staff Member__
+`2012 – 2016` _Research Staff Member_
 
 Provided analytical support to the Office of the Director, Operational Test and Evaluation on over twenty DoD Programs of Record. Products included planning and design of operational tests, observing test events, data analysis, and report writing.
 
 #### North Carolina State University, Raleigh NC
 
-`2012 – 2016` __Teaching Assistant__
+`2012 – 2016` _Teaching Assistant_
 
 Sole instructor for introductory and second-semester statistics courses for non-majors (five total semesters). Prepared and presented lectures, produced in-class activities, provided one-on-one instruction to students, prepared and graded exams.
 
 #### Merscom/Playdom, Chapel Hill NC
 
-`2009-2010` __Business Analytics Specialist (Internship)__
+`2009-2010` _Business Analytics Specialist (Internship)_
 
 Provided direct analytical support to Merscom chief executives (and Chapel Hill office leadership post-acquisition by Playdom). Tracked game play metrics and provided daily reports to leadership monitoring trends including re-visit rates and uptake. 
 
-##Teaching
+## Teaching
 
 #### North Carolina State University, 2007 - 2012
 
-`2012-2011` __ST 312: Introduction to Statistics II__
+`2012-2011` _ST 312: Introduction to Statistics II_
 Material includes multiple linear regression, one- and two-way ANOVA, multiple comparisons, and other topics. Responsibilities included preparing lectures, designing in-class activities, and writing exams. 
 
-`2008-2011`  __ST 311: Introduction to Statistics I__
+`2008-2011`  _ST 311: Introduction to Statistics I_
 Material includes hypothesis testing for means and proportions, confidence intervals, sampling, introduction to regression and other topics. Responsibilities included preparing lectures, designing in-class activities, and writing midterm exams.
 
-##Short Courses and Tutorials
+## Short Courses and Tutorials
 
 `Multiple` __Design of Experiments - DOT&E Action Officer Training__
 
@@ -83,9 +83,11 @@ Half-day course covering estimation and properties of MLEs, multi-parameter MLEs
 
 ## Fellowships and Awards
 
-`2014` __Runner-up Outstanding JSM Presentation Award - ASA-SPES__
-`2014` __Best Presentation Award - International Test and Evaluation Association__
-`2010-2011` __Statistical and Applied Mathematical Sciences Institute Graduate Fellow__
+`2014` __Runner-up Outstanding JSM Presentation Award - __ _American Statistical Association Section on Statistics in the Physical and Engineering Sciences_
+
+`2014` __Best Presentation Award -__ _International Test and Evaluation Association_
+
+`2010-2011` __Graduate Fellow - __ _Statistical and Applied Mathematical Sciences Institute_
 
 ## Selected Presentations
 
