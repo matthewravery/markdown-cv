@@ -16,17 +16,23 @@ Predictive modeling, uncertainty estimation, mixed models, national defense, fun
 
 ## Education
 
+
+
 #### North Carolina State University - Raleigh, NC
+
 `2012`
-_PhD (Statistics)_
+__PhD (Statistics)__
+Dissertation: _New Techniques for Functional Data Analysis:  Model Selection, Classification, and Nonparametric Regression._
+
 
 `2009`
-_Master's (Statistics)_
+__Master's (Statistics)__
 
 #### New College of Florida - Sarasota, FL
 
 `2006`
-_Bachelor of Arts (Economics)_
+__Bachelor of Arts (Economics)__
+Thesis: _The Welfare Effects of Direct-to-Consumer Advertising in Prescription Drug Markets:  A Theoretical Model and Cost-Benefit Analysis_
 
 ## Professional Experience
 
