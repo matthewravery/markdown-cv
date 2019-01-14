@@ -15,10 +15,10 @@ Applied Statistician & Data Scientist
 Predictive modeling, uncertainty estimation, mixed models, national defense, functional data, UAVs, test design
 
 ## Education
+  
 
+__North Carolina State University - Raleigh, NC__
 
-
-#### North Carolina State University - Raleigh, NC
 
 `2012`
 __PhD (Statistics)__
@@ -37,6 +37,7 @@ Thesis: _The Welfare Effects of Direct-to-Consumer Advertising in Prescription D
 ## Professional Experience
 
 #### Institute for Defense Analyses, Alexandria, VA
+
 `2018 – Present` _Embedded Analyst, Office of Cost Analysis and Program Evaluation (CAPE)_
 
 Provide analytical support to OSD(CAPE). Perform original data analysis and organize ad hoc teams of IDA researchers to address special requests from CAPE staff. 
@@ -63,7 +64,7 @@ Provided direct analytical support to Merscom chief executives (and Chapel Hill 
 
 ## Teaching
 
-#### North Carolina State University, 2007 - 2012
+#### North Carolina State University
 
 `2012-2011` _ST 312: Introduction to Statistics II_
 Material includes multiple linear regression, one- and two-way ANOVA, multiple comparisons, and other topics. Responsibilities included preparing lectures, designing in-class activities, and writing exams. 
