@@ -12,7 +12,7 @@ Applied Statistician & Data Scientist
 
 ### Specializations
 
-Predictive modeling, uncertainty bounds
+Predictive modeling, uncertainty estimation, mixed models, national defense, 
 
 ## Education
 
@@ -91,7 +91,7 @@ Half-day course covering estimation and properties of MLEs, multi-parameter MLEs
 
 ## Selected Presentations
 
-#### External 
+### External 
 
 `January 2018` __ciTools: An R Package to Ease Model Inference__ _rstudioconf::2018_
 
@@ -116,7 +116,7 @@ Half-day course covering estimation and properties of MLEs, multi-parameter MLEs
 `August 2013` __Experimental Design Challenges in Operational Testing:  Recent Case Studies__ _Joint Statistical Meetings_
 
 
-#### Internal (IDA)
+### Internal (IDA)
 
 `March 2018` __Highlights from rstudioconf::2018__
 
@@ -143,7 +143,7 @@ Half-day course covering estimation and properties of MLEs, multi-parameter MLEs
 
 ## Selected Publications
 
-#### Peer Reviewed Journals
+### Peer Reviewed Journals
 
 Freeman L. J., Johnson, T., __Avery, M.__, Lillard, V., Clutter, J. “Testing Defense Systems.” _Analytic Methods in Systems and Software Testing_. © 2018, pages 439-487  John Wiley & Sons, Ltd. Editors: Kenett, R., Ruggeri, F., Faltin, F.
 
@@ -159,7 +159,7 @@ __Avery M.__, Wu Y., Zhang H., Zhang J. “RKHS-based functional nonparametric r
 
 __Avery, M.__ & Banks, H. & Basu, K. & Cheng, Y. & Eager, E. & Khasawinah, S. & Potter, L. & Rehm, K. (2012). “Experimental design and inverse problems in plant biological modeling.” _Journal of Inverse and Ill-Posed Problems_. 20. 169–191.
 
-#### Peer Reviewed Technical Reports
+### Peer Reviewed Technical Reports
 
 Pechacek, Julie A., __Avery, Matthew R.__, Bishop, James M., Picucci, P. M., Romana, Amrit K. and Saizan, Alexandra M. "Design for a Controlled Trial of an Alcohol Market Intervention Intended to Reduce Harmful Behaviors in the Army and Air Force". (2018)	_IDA Paper P-9185_
 
