@@ -12,7 +12,7 @@ Applied Statistician & Data Scientist
 
 ### Specializations
 
-Predictive modeling, uncertainty estimation, mixed models, national defense, 
+Predictive modeling, uncertainty estimation, mixed models, national defense, functional data, UAVs, test design
 
 ## Education
 
