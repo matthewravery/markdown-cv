@@ -17,7 +17,7 @@ Predictive modeling, uncertainty estimation, mixed models, national defense, fun
 ## Education
   
 
-North Carolina State University - Raleigh, NC
+___North Carolina State University - Raleigh, NC___
 
 `2012`
 __PhD (Statistics)__
@@ -27,14 +27,14 @@ Dissertation: _New Techniques for Functional Data Analysis:  Model Selection, Cl
 `2009`
 __Master's (Statistics)__
 
-#### New College of Florida - Sarasota, FL
+___New College of Florida - Sarasota, FL___
 
 `2006`
 __Bachelor of Arts (Economics)__
 Thesis: _The Welfare Effects of Direct-to-Consumer Advertising in Prescription Drug Markets:  A Theoretical Model and Cost-Benefit Analysis_
 
 ## Professional Experience
-
+` `
 #### Institute for Defense Analyses, Alexandria, VA
 
 `2018 – Present` _Embedded Analyst, Office of Cost Analysis and Program Evaluation (CAPE)_
