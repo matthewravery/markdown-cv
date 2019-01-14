@@ -6,11 +6,11 @@ title: Isaac Newtons's CV
 Applied Statistician & Data Scientist
 
 <div id="webaddress">
-<a href="https://github.com/matthewravery">My wikipedia page</a>
+<a href="https://github.com/matthewravery">My GitHub</a>
 </div>
 
 
-### Specializing
+### Specializations
 
 Predictive modeling, uncertainty bounds
 
@@ -59,13 +59,13 @@ Provided direct analytical support to Merscom chief executives (and Chapel Hill 
 
 #### North Carolina State University, 2007 - 2012
 
-`2012-2011` __ST 312: Introduction to Statistics II__
+`2012-2011` _ST 312: Introduction to Statistics II_
 Material includes multiple linear regression, one- and two-way ANOVA, multiple comparisons, and other topics. Responsibilities included preparing lectures, designing in-class activities, and writing exams. 
 
 `2008-2011`  __ST 311: Introduction to Statistics I__
 Material includes hypothesis testing for means and proportions, confidence intervals, sampling, introduction to regression and other topics. Responsibilities included preparing lectures, designing in-class activities, and writing midterm exams.
 
-##Short Courses and Tutorials
+## Short Courses and Tutorials
 
 `Multiple` __Design of Experiments - DOT&E Action Officer Training__
 
