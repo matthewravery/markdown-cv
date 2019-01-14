@@ -17,8 +17,7 @@ Predictive modeling, uncertainty estimation, mixed models, national defense, fun
 ## Education
   
 
-__North Carolina State University - Raleigh, NC__
-
+North Carolina State University - Raleigh, NC
 
 `2012`
 __PhD (Statistics)__
