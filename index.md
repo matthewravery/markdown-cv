@@ -67,17 +67,17 @@ Material includes hypothesis testing for means and proportions, confidence inter
 
 ## Short Courses and Tutorials
 
-`Multiple` __Design of Experiments - DOT&E Action Officer Training__
+`Multiple` __Design of Experiments__ _DOT&E Action Officer Training_
 
-`Multiple` __Reliability Test Planning - DOT&E Action Officer Training__
+`Multiple` __Reliability Test Planning__ _DOT&E Action Officer Training_
 
 Multiple instructors help to build and present sections of these full-day courses, which are delivered once or twice annually to Action Officers working for the Office of the Director, Operational Test and Evaluation. Author and presenter responsibilities vary from year to year. Relevant sections include Experimental Designs; Data Analysis Overview; Reliability, Availability, and Maintainability (RAM) Requirements; and Analysis of RAM Data.
 
-`April 2016` __Bootstrapping 101 - Science of Test Workshop__
+`April 2016` __Bootstrapping 101__ _Science of Test Workshop_
 
 Half-day tutorial covering populations and sampling, sampling distributions, statistical inference, resampling, the “bootstrap world”, confidence intervals for simple and complex statistics, hypothesis testing, and further extensions. 
 
-`July 2014` __Maximum Likelihood Estimation - Institute for Defense Analyses__
+`July 2014` __Maximum Likelihood Estimation__ _Institute for Defense Analyses_
 
 Half-day course covering estimation and properties of MLEs, multi-parameter MLEs, censoring and transformations, hypothesis testing, confidence intervals, Fisher Information, and the delta method.
 
@@ -93,17 +93,28 @@ Half-day course covering estimation and properties of MLEs, multi-parameter MLEs
 
 #### External 
 
-`January 2018` __ciTools: An R Package to Ease Model Inference -- rstudioconf::2018__
-`August 2018` __ciTools: Quantifying Uncertainty for Statistical Models -- Joint Statistical Meetings __
-`April 2017` __Session Chair, “Data Synthesis and Visualization with Big Data” -- Science of Test Workshop__
-`August 2017` __Uncertainty Quantification for Mixed Models -- Joint Statistical Meetings__
-`August 2016` __Applications of Modern Statistical Techniques to Operational Testing -- Joint Statistical Meetings__
-`September 2015` __Ordinal Response Variables Observed Continuously Over Time -- European Network for Business and Industrial Statistics__ 
-`January 2015` __Reliability Survey of Military Acquisition Systems -- Reliability and Maintainability Symposium__
-`December 2014` __Empirical Signal to Noise Ratios for Operational Tests -- Conference on Applied Statistics and Defense__
-`October 2014` __2013 Reliability Survey -- 31st International Test and Evaluation Symposium__
-`August 2014` __Session Chair, “Statistical Methods for Advancing Defense and National Security” -- Joint Statistical Meetings__ 
-`August 2013` __Experimental Design Challenges in Operational Testing:  Recent Case Studies -- Joint Statistical Meetings__
+`January 2018` __ciTools: An R Package to Ease Model Inference__ _rstudioconf::2018_
+
+`August 2018` __ciTools: Quantifying Uncertainty for Statistical Models__ _Joint Statistical Meetings _
+
+`April 2017` __Session Chair, “Data Synthesis and Visualization with Big Data”__ _Science of Test Workshop_
+
+`August 2017` __Uncertainty Quantification for Mixed Models__ _Joint Statistical Meetings_
+
+`August 2016` __Applications of Modern Statistical Techniques to Operational Testing__ _Joint Statistical Meetings_
+
+`September 2015` __Ordinal Response Variables Observed Continuously Over Time__ _European Network for Business and Industrial Statistics_
+
+`January 2015` __Reliability Survey of Military Acquisition Systems__ _Reliability and Maintainability Symposium_
+
+`December 2014` __Empirical Signal to Noise Ratios for Operational Tests__ _Conference on Applied Statistics and Defense_
+
+`October 2014` __2013 Reliability Survey__ _31st International Test and Evaluation Symposium_
+
+`August 2014` __Session Chair, “Statistical Methods for Advancing Defense and National Security”__ _Joint Statistical Meetings_
+
+`August 2013` __Experimental Design Challenges in Operational Testing:  Recent Case Studies__ _Joint Statistical Meetings_
+
 
 #### Internal (IDA)
 `March 2018` __Highlights from rstudioconf::2018__
@@ -112,56 +123,65 @@ Half-day course covering estimation and properties of MLEs, multi-parameter MLEs
 `May 2017` __Reproducible Research for OED__
 `February 2017` __Highlights from rstudioconf::2017__
 
-What Selecting “Hard-to-Change” Really Means:  An Introduction to Split-plot Designs
-January 2017
-2015 Reliability Assessment
-October 2016
-First Steps into the Bootstrap World
-June 2016
-2014 Reliability Assessment
-October 2015
-Empirical Signal-to-Noise Ratios for Operational Test Data
-August 2014
-2013 Reliability Assessment
-August 2014
-#### External
+`January 2017` __What Selecting “Hard-to-Change” Really Means:  An Introduction to Split-plot Designs__
+
+`October 2016` __2015 Reliability Assessment__
+
+`June 2016` __First Steps into the Bootstrap World__
+
+`October 2015` __2014 Reliability Assessment__
+
+`August 2014` __Empirical Signal-to-Noise Ratios for Operational Test Data__
+
+`August 2014` __2013 Reliability Assessment__
 
 
-## Publications
+## Selected Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+#### Peer Reviewed
 
-### Journals
+Freeman L. J., Johnson, T., __Avery, M.__, Lillard, V., Clutter, J. “Testing Defense Systems.” _Analytic Methods in Systems and Software Testing_. © 2018, pages 439-487  John Wiley & Sons, Ltd. Editors: Kenett, R., Ruggeri, F., Faltin, F.
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+__Avery, M.__, Avery, K., Freeman, L.J. “Statistical Methods for Defense Testing.” _Wiley Statistics Reference Online_ (2018).
 
-`1669`
-Lectiones opticæ.
+__Avery, M.__, Orndorff, M., Robinson, T., & Freeman, L.J. “Regularization for Continuously Observed Ordinal Response Variables with Piecewise‐constant Functional Covariates.” _Quality and Reliability Engineering International_ (2016) 32(6).
 
-etc. etc. etc.
+J. L. Bell, __M. R. Avery__ and M. C. Wells, "Reliability survey of military acquisition systems," _2015 Annual Reliability and Maintainability Symposium (RAMS)_, Palm Harbor, FL, 2015, pp. 1-6.
 
-### Patents
+Haslauer, C. M., __Avery, M.__ R., Pourdeyhimi, B., & Loboa, E. G. (2015). "Translating Textiles to Tissue Engineering: Creation and Evaluation of Microporous, Biocompatible, Degradable Scaffolds Using Industry Relevant Manufacturing Approaches and Human Adipose Derived Stem Cells." _Journal of Biomedical Materials Research. Part B, Applied Biomaterials_, 103(5), 1050–1058.
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+__Avery M.__, Wu Y., Zhang H., Zhang J. “RKHS-based functional nonparametric regression for sparse and irregular longitudinal data.” _Canadian Journal of Statistics_,  (2014)  42  (2) , pp. 204-216.
 
+__Avery, M.__ & Banks, H. & Basu, K. & Cheng, Y. & Eager, E. & Khasawinah, S. & Potter, L. & Rehm, K. (2012). “Experimental design and inverse problems in plant biological modeling.” _Journal of Inverse and Ill-Posed Problems_. 20. 169–191.
 
-## Occupation
+#### Peer Reviewed Technical Reports
 
-`1600`
-__Royal Mint__, London
+Pechacek, Julie A., __Avery, Matthew R.__, Bishop, James M., Picucci, P. M., Romana, Amrit K. and Saizan, Alexandra M. "Design for a Controlled Trial of an Alcohol Market Intervention Intended to Reduce Harmful Behaviors in the Army and Air Force". (2018)	_IDA Paper P-9185_
 
-- Warden
-- Minted coins
+Brooks, Peter S., __Avery, Matthew R., Avery__, Kelly M., Moses, Franklin L. and Thorne, James D. "(U) Effectiveness of ISR Assets Against Hard Targets". (2018)	_IDA Document NS D-9145, -9146, and -9147_
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+Thomas, Dean, Goodman, Allison L., __Avery, Matthew R.__, Bell, Jonathan L., Dickinson, Rebecca M., Hueckstaedt, Robert M., Peek, Douglas A., Roberts, Max W. and Freeman, Laura J. "Assessment of Reliability in DoD Acquisition Programs". (2018)	_IDA Document NS D-8997_
 
+Schulman, Eric R., __Avery, Matthew R.__, Corbett, Brooke M., Porter, Daniel J., Robbins, William J., Wall, Kenneth E., Wojton, Heather M. and Luhman, Michael L. "(U) Independent Evaluation of the Patriot Post-Deployment Build-8 Initial Operational Test and Evaluation". (2018)	_IDA Document D-8665_
 
+Freeman, Laura J. and __Avery, Matthew R.__ "Prediction Uncertainty for Autocorrelated Lognormal Data with Random Effects". (2017)	_IDA Document NS D-8629_
 
-<!-- ### Footer
+Peterson, Robert G., Schulman, Eric R., __Avery, Matthew R.__, Schlick, Conor P. and Filkins, Peter C. "(U) Independent Evaluation of the Joint Standoff Weapon C-1 Follow-on Operational Test and Evaluation". (2017). _IDA Paper P-8369_
 
-Last updated: May 2013 -->
+Shaw, Scott E., __Avery, Matthew R.__, Crabtree, Brent A., Grandinetti, Saul A. and Lambrecht, Kristen L. "RQ-7BV2 Shadow Tactical Unmanned Aircraft System Follow-on Operational Test and Evaluation, and Operational Assessment of the One System Remote Video Terminal". (2015). _IDA Document D-5373_
+
+Shaw, Scott E., __Avery, Matthew R.__, Brathwaite, Joy D., Eveker, Kevin M. and Lambrecht, Kristen L. "(U) Independent Assessment of the RQ-21A Blackjack Small Tactical Unmanned Aircraft System - Volume II - Appendix C, (U) RQ-21A Blackjack Cybersecurity Assessment". (2016). _IDA Paper P-5270 (Volumes 1 and 2)_
+
+Carlson, Charles D., Satyapal, Shanti, Ratchford, Jasmine, __Avery, Matthew R.__ and Kirpichevsky, Yevgeniy. "Test and Evaluation Concept for the Biometrics Enabling Capability (BEC) Increment 0 IOT&E". (2014). _IDA Document D-5078_
+
+Shaw, Scott E. and __Avery, Matthew R.__ "Land-Based Phase of the MQ-8B Weapons Quick Reaction Assessment". (2013). _IDA Document D-5051_
+
+Thayer, Bradley D., Mathiasmeier, Kenneth J. and __Avery, Matthew R.__ "Test and Evaluation Concept for the Next Generation Jammer (NGJ)". (2014). _IDA Document D-4972_
+
+__Avery, Matthew R.__ and Shaw, Scott E. "Assessment of RQ-21A Small Tactical Unmanned Aircraft System Performance During Operational Test Period B2". (2013). _IDA Document D-4904_
+
+## Memberships
+_International Test and Evaluation Association (ITEA)_
+_American Statistical Association_
 
 
