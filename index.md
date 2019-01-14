@@ -15,10 +15,8 @@ Applied Statistician & Data Scientist
 Predictive modeling, uncertainty estimation, mixed models, national defense, functional data, UAVs, test design
 
 ## Education
-  ` `
-  ` `
 
-#### North Carolina State University - Raleigh, NC
+### North Carolina State University - Raleigh, NC
 
 `2012`
 __PhD (Statistics)__
@@ -28,7 +26,7 @@ Dissertation: _New Techniques for Functional Data Analysis:  Model Selection, Cl
 `2009`
 __Master's (Statistics)__
 
-#### New College of Florida - Sarasota, FL
+### New College of Florida - Sarasota, FL
 
 `2006`
 __Bachelor of Arts (Economics)__
@@ -36,7 +34,7 @@ Thesis: _The Welfare Effects of Direct-to-Consumer Advertising in Prescription D
 
 ## Professional Experience
 
-_#### __Institute for Defense Analyses, Alexandria, VA__
+### Institute for Defense Analyses, Alexandria, VA
 
 `2018 – Present` _Embedded Analyst, Office of Cost Analysis and Program Evaluation (CAPE)_
 
@@ -50,13 +48,13 @@ Manage $300k line of effort providing analysis on unmanned aircraft systems. Coo
 
 Provided analytical support to the Office of the Director, Operational Test and Evaluation on over twenty DoD Programs of Record. Products included planning and design of operational tests, observing test events, data analysis, and report writing.
 
-__North Carolina State University, Raleigh NC__
+### North Carolina State University, Raleigh NC
 
 `2012 – 2016` _Teaching Assistant_
 
 Sole instructor for introductory and second-semester statistics courses for non-majors (five total semesters). Prepared and presented lectures, produced in-class activities, provided one-on-one instruction to students, prepared and graded exams.
 
-__Merscom/Playdom, Chapel Hill NC__
+### Merscom/Playdom, Chapel Hill NC
 
 `2009-2010` _Business Analytics Specialist (Internship)_
 
