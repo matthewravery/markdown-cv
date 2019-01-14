@@ -18,7 +18,9 @@ Predictive modeling, uncertainty estimation, mixed models, national defense, fun
 
 
 
-#### North Carolina State University - Raleigh, NC
+#### North Carolina State University 
+Raleigh, NC
+
 
 `2012`
 __PhD (Statistics)__
@@ -63,7 +65,7 @@ Provided direct analytical support to Merscom chief executives (and Chapel Hill 
 
 ## Teaching
 
-#### North Carolina State University, 2007 - 2012
+#### North Carolina State University
 
 `2012-2011` _ST 312: Introduction to Statistics II_
 Material includes multiple linear regression, one- and two-way ANOVA, multiple comparisons, and other topics. Responsibilities included preparing lectures, designing in-class activities, and writing exams. 
