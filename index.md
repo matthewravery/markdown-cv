@@ -6,7 +6,7 @@ title: Matthew Avery's CV
 Applied Statistician & Data Scientist
 
 <div id="webaddress">
-<a href="https://github.com/matthewravery">My GitHub</a>
+<a href="https://github.com/matthewravery">GitHub</a>
 </div>
 
 
