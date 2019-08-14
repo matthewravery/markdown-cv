@@ -172,7 +172,7 @@ Brooks, Peter S., __Avery, Matthew R., Avery__, Kelly M., Moses, Franklin L. and
 
 Thomas, Dean, Goodman, Allison L., __Avery, Matthew R.__, Bell, Jonathan L., Dickinson, Rebecca M., Hueckstaedt, Robert M., Peek, Douglas A., Roberts, Max W. and Freeman, Laura J. "Assessment of Reliability in DoD Acquisition Programs". (2018)	_IDA Document NS D-8997_
 
-Schulman, Eric R., __Avery, Matthew R.__, Corbett, Brooke M., Porter, Daniel J., Robbins, William J., Wall, Kenneth E., Wojton, Heather M. and Luhman, Michael L. "(U) Independent Evaluation of the Patriot Post-Deployment Build-8 Initial Operational Test and Evaluation". (2018)	_IDA Document D-8665_
+Schulman, Eric R., __Avery, Matthew R.__, Corbett, Brooke M., Porter, Daniel J., Wall, Kenneth E., Wojton, Heather M. and Luhman, Michael L. "(U) Independent Evaluation of the Patriot Post-Deployment Build-8 Initial Operational Test and Evaluation". (2018)	_IDA Document D-8665_
 
 Freeman, Laura J. and __Avery, Matthew R.__ "Prediction Uncertainty for Autocorrelated Lognormal Data with Random Effects". (2017)	_IDA Document NS D-8629_
 
