@@ -36,19 +36,33 @@ Thesis: _The Welfare Effects of Direct-to-Consumer Advertising in Prescription D
 
 ### Institute for Defense Analyses, Alexandria, VA
 
-`2018 – Present` _Embedded Analyst, Office of Cost Analysis and Program Evaluation (CAPE)_
+`2020 - Present` _Co-Chair, Data Governance Working Group_
 
-Provide analytical support to OSD(CAPE). Perform original data analysis and organize ad hoc teams of IDA researchers to address special requests from CAPE staff. 
+Founded and secured funding for Working Group leading IDA's efforts to draft and implement Data Management policies.
 
 `2017 – Present` _Task Leader, Tactical Aerial Reconnaissance Systems (TARS)_
 
 Manage $300k line of effort providing analysis on unmanned aircraft systems. Coordinate work of nine IDA researchers to provide the Office of the Director, Operational Test and Evaluation input on six Programs of Record. Tasks include budget planning, organizing coverage plans for test events, and quality control of team products. 
 
+`2018 – 2019` _Embedded Analyst, Office of Cost Analysis and Program Evaluation (CAPE)_
+
+Provide analytical support to OSD(CAPE). Perform original data analysis and organize ad hoc teams of IDA researchers to address special requests from CAPE staff. 
+
 `2012 – 2016` _Research Staff Member_
 
 Provided analytical support to the Office of the Director, Operational Test and Evaluation on over twenty DoD Programs of Record. Products included planning and design of operational tests, observing test events, data analysis, and report writing.
 
+### Virginia Tech (National Capital Region), Arlington, VA
+
+`2020 - Present` _Adjunct Professor, Data Analytics and Applied Sciences_
+
+Instructor for Statistics in Research course covering sampling, one- and two-sample t-tests and one- and two-sample tests for proportions, confidence intervals for sample means and proportions, regression, ANOVA, and nonparametric tests. 
+
 ### North Carolina State University, Raleigh NC
+
+`Summer 2019` _Summer Lecturer_ 
+
+Managed online semester-long course on Experimental Statistics, covering regression, ANOVA, generalized linear models, mixed models, and split plots.
 
 `2012 – 2016` _Teaching Assistant_
 
@@ -150,6 +164,8 @@ Half-day course covering estimation and properties of MLEs, multi-parameter MLEs
 
 ### Peer Reviewed Journals
 
+Haman, John T., __Avery, Matthew R.__ and Wojton, Heather M. 2019. "The Purpose of Mixed-Effects Models in Test and Evaluation." _ITEA Journal_ December, 2019.
+
 Freeman L. J., Johnson, T., __Avery, M.__, Lillard, V., Clutter, J. “Testing Defense Systems.” _Analytic Methods in Systems and Software Testing_. © 2018, pages 439-487  John Wiley & Sons, Ltd. Editors: Kenett, R., Ruggeri, F., Faltin, F.
 
 __Avery, M.__, Avery, K., Freeman, L.J. “Statistical Methods for Defense Testing.” _Wiley Statistics Reference Online_ (2018).
@@ -166,29 +182,33 @@ __Avery, M.__ & Banks, H. & Basu, K. & Cheng, Y. & Eager, E. & Khasawinah, S. & 
 
 ### Peer Reviewed Technical Reports
 
-Pechacek, Julie A., __Avery, Matthew R.__, Bishop, James M., Picucci, P. M., Romana, Amrit K. and Saizan, Alexandra M. "Design for a Controlled Trial of an Alcohol Market Intervention Intended to Reduce Harmful Behaviors in the Army and Air Force". (2018)	_IDA Paper P-9185_
+Wojton, Heather M., Avery, Kelly M., __Avery, Matthew R.__, Medlin, Rebecca M. and Lane, Stephanie T. 2019. Test Design and Reporting AO Course. _IDA Document NS D-9227_.
+
+Lillard, Vincent A., __Avery, Matthew R.__, Koretsky, Geoffrey M., Slawik, Alexander J., Ouellette, Stephen M., Thorne, James D., de Naray, Rachel K., Adelizzi, Eric A. and Goeller, Lawrence N. 2018. Satellite Affordability in LEO (SAL). _IDA Document NS D-9056_.
+
+Pechacek, Julie A., __Avery, Matthew R.__, Bishop, James M., Picucci, P. M., Romana, Amrit K. and Saizan, Alexandra M. "Design for a Controlled Trial of an Alcohol Market Intervention Intended to Reduce Harmful Behaviors in the Army and Air Force". (2018)	_IDA Paper P-9185_.
 
 Brooks, Peter S., __Avery, Matthew R., Avery__, Kelly M., Moses, Franklin L. and Thorne, James D. "(U) Effectiveness of ISR Assets Against Hard Targets". (2018)	_IDA Document NS D-9145, -9146, and -9147_
 
-Thomas, Dean, Goodman, Allison L., __Avery, Matthew R.__, Bell, Jonathan L., Dickinson, Rebecca M., Hueckstaedt, Robert M., Peek, Douglas A., Roberts, Max W. and Freeman, Laura J. "Assessment of Reliability in DoD Acquisition Programs". (2018)	_IDA Document NS D-8997_
+Thomas, Dean, Goodman, Allison L., __Avery, Matthew R.__, Bell, Jonathan L., Dickinson, Rebecca M., Hueckstaedt, Robert M., Peek, Douglas A., Roberts, Max W. and Freeman, Laura J. "Assessment of Reliability in DoD Acquisition Programs". (2018)	_IDA Document NS D-8997_.
 
-Schulman, Eric R., __Avery, Matthew R.__, Corbett, Brooke M., Porter, Daniel J., Wall, Kenneth E., Wojton, Heather M. and Luhman, Michael L. "(U) Independent Evaluation of the Patriot Post-Deployment Build-8 Initial Operational Test and Evaluation". (2018)	_IDA Document D-8665_
+Schulman, Eric R., __Avery, Matthew R.__, Corbett, Brooke M., Porter, Daniel J., Wall, Kenneth E., Wojton, Heather M. and Luhman, Michael L. "(U) Independent Evaluation of the Patriot Post-Deployment Build-8 Initial Operational Test and Evaluation". (2018)	_IDA Document D-8665_.
 
-Freeman, Laura J. and __Avery, Matthew R.__ "Prediction Uncertainty for Autocorrelated Lognormal Data with Random Effects". (2017)	_IDA Document NS D-8629_
+Freeman, Laura J. and __Avery, Matthew R.__ "Prediction Uncertainty for Autocorrelated Lognormal Data with Random Effects". (2017)	_IDA Document NS D-8629_.
 
-Peterson, Robert G., Schulman, Eric R., __Avery, Matthew R.__, Schlick, Conor P. and Filkins, Peter C. "(U) Independent Evaluation of the Joint Standoff Weapon C-1 Follow-on Operational Test and Evaluation". (2017). _IDA Paper P-8369_
+Peterson, Robert G., Schulman, Eric R., __Avery, Matthew R.__, Schlick, Conor P. and Filkins, Peter C. "(U) Independent Evaluation of the Joint Standoff Weapon C-1 Follow-on Operational Test and Evaluation". (2017). _IDA Paper P-8369_.
 
-Shaw, Scott E., __Avery, Matthew R.__, Crabtree, Brent A., Grandinetti, Saul A. and Lambrecht, Kristen L. "RQ-7BV2 Shadow Tactical Unmanned Aircraft System Follow-on Operational Test and Evaluation, and Operational Assessment of the One System Remote Video Terminal". (2015). _IDA Document D-5373_
+Shaw, Scott E., __Avery, Matthew R.__, Crabtree, Brent A., Grandinetti, Saul A. and Lambrecht, Kristen L. "RQ-7BV2 Shadow Tactical Unmanned Aircraft System Follow-on Operational Test and Evaluation, and Operational Assessment of the One System Remote Video Terminal". (2015). _IDA Document D-5373_.
 
-Shaw, Scott E., __Avery, Matthew R.__, Brathwaite, Joy D., Eveker, Kevin M. and Lambrecht, Kristen L. "(U) Independent Assessment of the RQ-21A Blackjack Small Tactical Unmanned Aircraft System - Volume II - Appendix C, (U) RQ-21A Blackjack Cybersecurity Assessment". (2016). _IDA Paper P-5270 (Volumes 1 and 2)_
+Shaw, Scott E., __Avery, Matthew R.__, Brathwaite, Joy D., Eveker, Kevin M. and Lambrecht, Kristen L. "(U) Independent Assessment of the RQ-21A Blackjack Small Tactical Unmanned Aircraft System - Volume II - Appendix C, (U) RQ-21A Blackjack Cybersecurity Assessment". (2016). _IDA Paper P-5270 (Volumes 1 and 2)_.
 
-Carlson, Charles D., Satyapal, Shanti, Ratchford, Jasmine, __Avery, Matthew R.__ and Kirpichevsky, Yevgeniy. "Test and Evaluation Concept for the Biometrics Enabling Capability (BEC) Increment 0 IOT&E". (2014). _IDA Document D-5078_
+Carlson, Charles D., Satyapal, Shanti, Ratchford, Jasmine, __Avery, Matthew R.__ and Kirpichevsky, Yevgeniy. "Test and Evaluation Concept for the Biometrics Enabling Capability (BEC) Increment 0 IOT&E". (2014). _IDA Document D-5078_.
 
-Shaw, Scott E. and __Avery, Matthew R.__ "Land-Based Phase of the MQ-8B Weapons Quick Reaction Assessment". (2013). _IDA Document D-5051_
+Shaw, Scott E. and __Avery, Matthew R.__ "Land-Based Phase of the MQ-8B Weapons Quick Reaction Assessment". (2013). _IDA Document D-5051_.
 
-Thayer, Bradley D., Mathiasmeier, Kenneth J. and __Avery, Matthew R.__ "Test and Evaluation Concept for the Next Generation Jammer (NGJ)". (2014). _IDA Document D-4972_
+Thayer, Bradley D., Mathiasmeier, Kenneth J. and __Avery, Matthew R.__ "Test and Evaluation Concept for the Next Generation Jammer (NGJ)". (2014). _IDA Document D-4972_.
 
-__Avery, Matthew R.__ and Shaw, Scott E. "Assessment of RQ-21A Small Tactical Unmanned Aircraft System Performance During Operational Test Period B2". (2013). _IDA Document D-4904_
+__Avery, Matthew R.__ and Shaw, Scott E. "Assessment of RQ-21A Small Tactical Unmanned Aircraft System Performance During Operational Test Period B2". (2013). _IDA Document D-4904_.
 
 ## Memberships
 _International Test and Evaluation Association (ITEA)_
